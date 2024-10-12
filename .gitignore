@@ -164,4 +164,4 @@ cython_debug/
 assets/
 images/
 model/
-query/
+query/ ß
